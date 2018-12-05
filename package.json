@@ -1,6 +1,6 @@
 {
-  "name": "node-mocha",
-  "version": "1.0.0",
+  "name": "mocha",
+  "version": "2.4.5",
   "description": "## Overview",
   "main": "test.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "mocha-multi": "^1.0.1"
   }
 }
